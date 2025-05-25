@@ -5,12 +5,12 @@
     "description": "Learn how to use React Hooks effectively in your applications with real-world examples.",
     "date": "2025-05-10",
     "tags": ["React", "JavaScript", "Frontend"],
-    "thumbnail": "/images/react-hooks.png",
-    "externalUrl": "https://dev.to/yourusername/mastering-react-hooks-1234",
+    "thumbnail": "https://i.imgur.com/4MlMddK.png",
+    "externalUrl": "/",
     "readingTime": "7 min",
     "author": {
       "name": "Your Name",
-      "avatar": "/images/author-avatar.png",
+      "avatar": "https://i.imgur.com/1NnUxOj.jpeg",
       "bio": "Frontend Developer and Technical Writer"
     },
     "content": "# React Hooks Guide\n\nReact Hooks allow you to use state and other React features without writing a class. Here's how..."
@@ -21,12 +21,12 @@
     "description": "Explore the latest features in Next.js 15 and how to migrate your existing projects.",
     "date": "2025-04-28",
     "tags": ["Next.js", "React", "Web Development"],
-    "thumbnail": "/images/nextjs15.png",
-    "externalUrl": "https://medium.com/@yourusername/nextjs-15-whats-new-5678",
+    "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F354113%2Fnextjs-icon&psig=AOvVaw2GvTK82GYjOUNVat_0cp6o&ust=1748279365014000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDi9aWOv40DFQAAAAAdAAAAABAE",
+    "externalUrl": "/",
     "readingTime": "5 min",
     "author": {
       "name": "Your Name",
-      "avatar": "/images/author-avatar.png",
+      "avatar": "https://i.imgur.com/1NnUxOj.jpeg",
       "bio": "Frontend Developer and Technical Writer"
     },
     "content": "# Next.js 15: What's New\n\nThe Next.js 15 release brings a host of improvements including..."
@@ -37,12 +37,12 @@
     "description": "Step-by-step guide to building a full-stack URL shortener using Next.js and Supabase.",
     "date": "2025-03-15",
     "tags": ["Next.js", "Supabase", "Fullstack"],
-    "thumbnail": "/images/url-shortener.png",
+    "thumbnail": "https://dcblog.b-cdn.net/wp-content/uploads/2021/02/Full-form-of-URL-1.jpg",
     "externalUrl": "https://hashnode.com/post/url-shortener-nextjs-supabase-9012",
     "readingTime": "8 min",
     "author": {
       "name": "Your Name",
-      "avatar": "/images/author-avatar.png",
+      "avatar": "https://i.imgur.com/1NnUxOj.jpeg",
       "bio": "Frontend Developer and Technical Writer"
     },
     "content": "# Build a URL Shortener\n\nWe’ll be using Next.js API routes and Supabase as our backend database..."
@@ -53,12 +53,12 @@
     "description": "A deep dive into JWT, refresh tokens, and how to implement secure authentication in your apps.",
     "date": "2025-02-20",
     "tags": ["Authentication", "JWT", "Security"],
-    "thumbnail": "/images/jwt-auth.png",
-    "externalUrl": "https://dev.to/yourusername/jwt-auth-guide-3456",
+    "thumbnail": "https://avatao.com/media/JWT-blogpost.png",
+    "externalUrl": "/",
     "readingTime": "6 min",
     "author": {
       "name": "Your Name",
-      "avatar": "/images/author-avatar.png",
+      "avatar": "https://i.imgur.com/1NnUxOj.jpeg",
       "bio": "Frontend Developer and Technical Writer"
     },
     "content": "# JWT Authentication\n\nJSON Web Tokens (JWT) are a compact way to securely transmit information..."
@@ -74,7 +74,7 @@
     "readingTime": "4 min",
     "author": {
       "name": "Your Name",
-      "avatar": "/images/author-avatar.png",
+      "avatar": "https://i.imgur.com/1NnUxOj.jpeg",
       "bio": "Frontend Developer and Technical Writer"
     },
     "content": "# Next.js SEO Optimization\n\nNext.js helps with SEO by supporting metadata, sitemap generation..."
