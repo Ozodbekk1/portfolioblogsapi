@@ -1,1 +1,83 @@
+[
+  {
+    "title": "Mastering React Hooks: A Complete Guide",
+    "slug": "mastering-react-hooks",
+    "description": "Learn how to use React Hooks effectively in your applications with real-world examples.",
+    "date": "2025-05-10",
+    "tags": ["React", "JavaScript", "Frontend"],
+    "thumbnail": "/images/react-hooks.png",
+    "externalUrl": "https://dev.to/yourusername/mastering-react-hooks-1234",
+    "readingTime": "7 min",
+    "author": {
+      "name": "Your Name",
+      "avatar": "/images/author-avatar.png",
+      "bio": "Frontend Developer and Technical Writer"
+    },
+    "content": "# React Hooks Guide\n\nReact Hooks allow you to use state and other React features without writing a class. Here's how..."
+  },
+  {
+    "title": "Getting Started with Next.js 15: What’s New",
+    "slug": "nextjs-15-whats-new",
+    "description": "Explore the latest features in Next.js 15 and how to migrate your existing projects.",
+    "date": "2025-04-28",
+    "tags": ["Next.js", "React", "Web Development"],
+    "thumbnail": "/images/nextjs15.png",
+    "externalUrl": "https://medium.com/@yourusername/nextjs-15-whats-new-5678",
+    "readingTime": "5 min",
+    "author": {
+      "name": "Your Name",
+      "avatar": "/images/author-avatar.png",
+      "bio": "Frontend Developer and Technical Writer"
+    },
+    "content": "# Next.js 15: What's New\n\nThe Next.js 15 release brings a host of improvements including..."
+  },
+  {
+    "title": "How to Build a URL Shortener Using Next.js and Supabase",
+    "slug": "url-shortener-nextjs-supabase",
+    "description": "Step-by-step guide to building a full-stack URL shortener using Next.js and Supabase.",
+    "date": "2025-03-15",
+    "tags": ["Next.js", "Supabase", "Fullstack"],
+    "thumbnail": "/images/url-shortener.png",
+    "externalUrl": "https://hashnode.com/post/url-shortener-nextjs-supabase-9012",
+    "readingTime": "8 min",
+    "author": {
+      "name": "Your Name",
+      "avatar": "/images/author-avatar.png",
+      "bio": "Frontend Developer and Technical Writer"
+    },
+    "content": "# Build a URL Shortener\n\nWe’ll be using Next.js API routes and Supabase as our backend database..."
+  },
+  {
+    "title": "Understanding JWT Authentication in Modern Web Apps",
+    "slug": "jwt-authentication-guide",
+    "description": "A deep dive into JWT, refresh tokens, and how to implement secure authentication in your apps.",
+    "date": "2025-02-20",
+    "tags": ["Authentication", "JWT", "Security"],
+    "thumbnail": "/images/jwt-auth.png",
+    "externalUrl": "https://dev.to/yourusername/jwt-auth-guide-3456",
+    "readingTime": "6 min",
+    "author": {
+      "name": "Your Name",
+      "avatar": "/images/author-avatar.png",
+      "bio": "Frontend Developer and Technical Writer"
+    },
+    "content": "# JWT Authentication\n\nJSON Web Tokens (JWT) are a compact way to securely transmit information..."
+  },
+  {
+    "title": "Optimizing Your Website SEO with Next.js",
+    "slug": "nextjs-seo-optimization",
+    "description": "Tips and techniques to improve SEO using Next.js’s built-in features and metadata handling.",
+    "date": "2025-01-10",
+    "tags": ["SEO", "Next.js", "Performance"],
+    "thumbnail": "/images/seo-nextjs.png",
+    "externalUrl": "https://yourblog.com/nextjs-seo-optimization",
+    "readingTime": "4 min",
+    "author": {
+      "name": "Your Name",
+      "avatar": "/images/author-avatar.png",
+      "bio": "Frontend Developer and Technical Writer"
+    },
+    "content": "# Next.js SEO Optimization\n\nNext.js helps with SEO by supporting metadata, sitemap generation..."
+  }
+]
 
