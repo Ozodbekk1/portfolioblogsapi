@@ -1,5 +1,17 @@
 [
   {
+  "title": "Building a Modern News Website with React and Tailwind CSS",
+  "description": "A deep dive into creating an SEO-friendly, responsive news platform using React.js, TypeScript, Tailwind CSS, and Tailblocks.",
+  "date": "2025-06-10",
+  "tags": ["React", "Tailwind CSS", "TypeScript", "SEO", "News Website"],
+  "readingTime": "5 min",
+  "author": {
+    "name": "Ozodbek",
+    "avatar": "https://i.imgur.com/1NnUxOj.jpeg",
+    "bio": "Frontend Developer and Technical Writer"
+  }
+},
+  {
   "title": "Creating a Scalable CRM Dashboard with Next.js and shadcn/ui",
   "description": "Explore how I built a modern CRM dashboard using Next.js, TypeScript, Tailwind CSS, shadcn/ui, and form validation with React Hook Form and Zod.",
   "date": "2025-06-10",
@@ -71,18 +83,6 @@
       "avatar": "https://i.imgur.com/1NnUxOj.jpeg",
       "bio": "Frontend Developer and Technical Writer"
     }
-  },
-  {
-  "title": "Building a Modern News Website with React and Tailwind CSS",
-  "description": "A deep dive into creating an SEO-friendly, responsive news platform using React.js, TypeScript, Tailwind CSS, and Tailblocks.",
-  "date": "2025-06-10",
-  "tags": ["React", "Tailwind CSS", "TypeScript", "SEO", "News Website"],
-  "readingTime": "5 min",
-  "author": {
-    "name": "Ozodbek",
-    "avatar": "https://i.imgur.com/1NnUxOj.jpeg",
-    "bio": "Frontend Developer and Technical Writer"
   }
-}
 
 ]
